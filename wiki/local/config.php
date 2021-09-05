@@ -47,7 +47,7 @@ $DefaultPasswords['upload'] ='$2y$10$Y/0lLKyRxhH.2G3bYWwWwuLDumS14vQOvk4gIfWp/bu
 $UploadDirQuota = 100000000; # limit total uploads to 100000KB (100MB)
 $UploadMaxSize = 52000; # limit each upload to 52KB
 $UploadDir = "/home/NEQWiki/public_html/wiki/uploads";
-$UploadUrlFmt = "https://www.wiki.nostalgiaeq.com/wiki/uploads";
+$UploadUrlFmt = "http://www.wiki.nostalgiaeq.com/wiki/uploads";
 $LinkUploadCreateFmt = "<a rel='nofollow' class='createlinktext' href='\$LinkUpload'>\$LinkText</a>";
 
 ########### Skin###########
@@ -86,8 +86,8 @@ $PmTOC['EnableBacklinks'] = 1;
 ##  $PubDirUrl is the URL for the pub directory.
 ## Eliminate "pmwiki.php" from URLs set enabelpathinfo to 0?
 $EnablePathInfo = 1;
-$ScriptUrl = 'https://www.wiki.nostalgiaeq.com/wiki/pmwiki.php';
-$PubDirUrl = 'https://www.wiki.nostalgiaeq.com/wiki/pub';
+$ScriptUrl = 'http://www.wiki.nostalgiaeq.com/wiki/pmwiki.php';
+$PubDirUrl = 'http://www.wiki.nostalgiaeq.com/wiki/pub';
 
 
 ##  If you want to use URLs of the form .../pmwiki.php/Group/PageName
