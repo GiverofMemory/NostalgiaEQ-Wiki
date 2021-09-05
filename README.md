@@ -1,4 +1,4 @@
-# NatureVault - Saving the Worlds Knowledge
+# NostalgiaEQ Wiki - Saving Classic EverQuest
 ### Uses [PmWiki](https://www.pmwiki.org/) software
 
 ## Instructions
