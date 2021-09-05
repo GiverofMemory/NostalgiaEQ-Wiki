@@ -100,8 +100,8 @@ $PubDirUrl = 'http://www.wiki.nostalgiaeq.com/wiki/pub';
 
 ## $PageLogoUrl is the URL for a logo image -- you can change this
 ## to your own logo.
-$PageLogoUrl = "$PubDirUrl/skins/pmwiki/NV120.png";
-$PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NV35.png"; 	# Mobile View
+$PageLogoUrl = "$PubDirUrl/skins/pmwiki/NEQ120.png";
+$PageLogoAltUrl = "$PubDirUrl/skins/pmwiki/NEQ35.png"; 	# Mobile View
 
 
 
