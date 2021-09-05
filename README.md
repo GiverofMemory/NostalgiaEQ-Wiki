@@ -1,4 +1,4 @@
-# NostalgiaEQ Wiki - Saving Classic EverQuest
+# [NostalgiaEQ](http://nostalgiaeq.com) - [Wiki](http://wiki.nostalgiaeq.com) - Saving Classic EverQuest
 ### Uses [PmWiki](https://www.pmwiki.org/) software
 
 ## Instructions
