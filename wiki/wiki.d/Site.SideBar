@@ -1,15 +1,30 @@
 version=pmwiki-2.2.133 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 author=
 charset=UTF-8
-csum=* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]] 
-host=
+csum=* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] 
+host=68.231.69.235
 name=Site.SideBar
 passwdedit=@_site_upload
-rev=70
-targets=Main.HomePage,Main.Contact,Main.EditingPhilosophy,NatureVault.NatureVault,Category.Mechanics,Category.Electrics,Category.Chemics,Category.Quantics,Category.Geologics,Category.Biologics,Category.Cryptics,Site.SiteBackup,Site.SideBar,Main.WikiSandbox
-text=* [[Main/HomePage|Home Page]]%0a%0a* [[Main/Contact]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NatureVault/NatureVault]]%0a\\%0a%0a*[[Category.Mechanics | Mechanics]]%0a%0a* [[Category.Electrics | Electrics]]%0a%0a* [[Category.Chemics | Chemics]]%0a%0a* [[Category.Quantics | Quantics]]%0a%0a* [[Category.Geologics | Geologics]]%0a%0a* [[Category.Biologics | Biologics]]%0a%0a* [[Category.Cryptics | Cryptics]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1623440792
+rev=75
+targets=Main.HomePage,Main.EditingPhilosophy,NostalgiaEQWiki.NostalgiaEQWiki,Category.ToDo,Category.Issue,Category.Development,Site.SiteBackup,Site.SideBar,Main.WikiSandbox
+text=* [[Main/HomePage|Home Page]]%0a%0a* [[https://discord.gg/e5hAyWfbsW|Discord]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki|NEQ Wiki]]%0a\\%0a%0a*[[Category.ToDo | To Do]]%0a%0a* [[Category.Issue | Issue]]%0a%0a* [[Category.Development | Development]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.wiki.nostalgiaeq.com/wiki/pmwiki.php/NostalgiaEQWiki/Test?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1630818620
+author:1630818620=
+diff:1630818620:1630818564:=23c23%0a%3c * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]]%0a---%0a> * [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]]%0a
+host:1630818620=68.231.69.235
+author:1630818564=
+diff:1630818564:1630818271:=3c3%0a%3c * [[https://discord.gg/e5hAyWfbsW|Discord]]%0a---%0a> * [[Main/Contact]]%0a
+host:1630818564=68.231.69.235
+author:1630818271=
+diff:1630818271:1630817155:=24c24%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.wiki.nostalgiaeq.com/wiki/pmwiki.php/NostalgiaEQWiki/Test?action=edit|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[|login]]%0a
+host:1630818271=68.231.69.235
+author:1630817155=
+diff:1630817155:1630817100:=7c7%0a%3c !! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki|NEQ Wiki]]%0a---%0a> !! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki]]%0a
+host:1630817155=68.231.69.235
+author:1630817100=
+diff:1630817100:1623440792:=7c7%0a%3c !! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki]]%0a---%0a> !! [[NatureVault/NatureVault]]%0a10,15c10,23%0a%3c *[[Category.ToDo | To Do]]%0a%3c %0a%3c * [[Category.Issue | Issue]]%0a%3c %0a%3c * [[Category.Development | Development]]%0a%3c %0a---%0a> *[[Category.Mechanics | Mechanics]]%0a> %0a> * [[Category.Electrics | Electrics]]%0a> %0a> * [[Category.Chemics | Chemics]]%0a> %0a> * [[Category.Quantics | Quantics]]%0a> %0a> * [[Category.Geologics | Geologics]]%0a> %0a> * [[Category.Biologics | Biologics]]%0a> %0a> * [[Category.Cryptics | Cryptics]]%0a> %0a24c32%0a%3c * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[|login]]%0a---%0a> * [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.naturevault.org/wiki/pmwiki.php/NatureVaultTest?action=edit|login]]%0a
+host:1630817100=68.231.69.235
 author:1623440792=
 diff:1623440792:1620879215:=31c31%0a%3c * [[https://www.dropbox.com/sh/z0jqhhninphwl3v/AACUt9Dpe3l_pwNGnKxzPEaJa?dl=0 | {+Archive+}]]%0a---%0a> * [[https://www.dropbox.com/sh/8996cy48yrcyl10/AAAt8VWBRyl3OJtXJYJ9nR_ka?dl=0 | {+Archive+}]]%0a
 host:1623440792=68.231.69.235
