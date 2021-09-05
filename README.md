@@ -13,6 +13,6 @@
 
 ### Notes
 * For personal hosting Abyss Web server works well.
-* To use this wiki offline see [this guide](https://www.pmwiki.org/wiki/Cookbook/Standalone)
+* To use this wiki offline see [this guide](https://www.pmwiki.org/wiki/Cookbook/Standalone).
 * after typing out a command always hit the 'enter' key to run it.
 * the period after the 'git clone' statement means that these files and folders are placed into the directory you are in, instead of making a new folder (which won't work).
