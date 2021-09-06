@@ -4,6 +4,6 @@ charset=UTF-8
 ctime=1603914588
 host=68.231.69.235
 name=Site.RecentChanges
-rev=94
-text=* [[Site/SideBar]]  . . . September 05, 2021, at 05:25 AM by ?: [= =]%0a* [[Site/SiteBackup]]  . . . January 14, 2021, at 09:54 PM by ?: [=Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: nature), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip. =]%0a
-time=1630819554
+rev=99
+text=* [[Site/SiteBackup]]  . . . September 06, 2021, at 07:25 PM by ?: [=Running your own version of NostalgiaEQ Wiki is not hard!  !!Download current NostalgiaEQ Wiki Did you make a page on the wiki and want to save the whole wiki right away?  Make sure you are logged in (password: neq), and click the "Site Dump" link on the left side bar.  It will be in tar.gz and you should be able to open it with a zip program like 7zip.  This will not contain the very base folder which can be found from the archive below and you can just replace the contents of "wiki" folder from the github archive with these.  !!Download NostalgiaEQ Wiki from Archive Simply click the "Github Archive" link on the left sidebar.  There you can clone (which can pull updates online) or download the current dump.  This is updated every time I run a push from the webserver and will not include your recent edits (see above if you want everything).  This is the website 100%25 in full.  The contents of htdocs would be placed into the htdocs folder (sometimes also called 'www') of an Apache web server (like XAMPP, WAMP, or Abyss).  =]%0a* [[Site/SideBar]]  . . . September 05, 2021, at 02:53 PM by ?: [=* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]] =]%0a
+time=1630956334
