@@ -69,6 +69,7 @@ include_once("$FarmD/scripts/refcount.php");
 
 ########## Privacy ############
 ## These don't seem to work (nothing is logged) with any setting see pmwiki.php for the lines.
+## Search pmwiki.php for "host" which should be around lines 1185, 1186, and 2084.
 $EnableRevUserAgent = 0;  ## 1 means enable logging of users browser info when making a revision or post
 $EnableRevHostIP = 0;     ## 1 means enable logging of users IP Address when making a revision or post
 $EnablePostUserAgent = 0; ## 1 means enable logging of users browser info when making a new post
