@@ -1,0 +1,18 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum= May be better for trilogy client development than [[EQClassic server]] because it is newer and has better mob pathing. 
+ctime=1631156194
+name=NostalgiaEQWiki.TrilogyServer
+rev=4
+targets=NostalgiaEQWiki.EQClassicServer
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aMay be better for trilogy client development than [[EQClassic server]] because it is newer and has better mob pathing.%0a%0aServer (see readme you need open ssl and cmake and dependencies) [[https://github.com/erfg12/Trilogy|#]]%0a%0aDependencies and alkabor database and perl [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a%0aP2002 database (might work) [[https://drive.google.com/file/d/1A_ED6uBtoF4U7CEtvMH7xPbyiU9s1egt/view?usp=sharing|#]]%0a%0a
+time=1631156490
+author:1631156490=
+diff:1631156490:1631156456:=13,14d12%0a%3c %0a%3c May be better for trilogy client development than [[EQClassic server]] because it is newer and has better mob pathing.%0a
+author:1631156456=
+diff:1631156456:1631156215:=16,18c16%0a%3c Dependencies and alkabor database and perl [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a%3c %0a%3c P2002 database (might work) [[https://drive.google.com/file/d/1A_ED6uBtoF4U7CEtvMH7xPbyiU9s1egt/view?usp=sharing|#]]%0a---%0a> Dependencies and database and perl [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a
+author:1631156215=
+diff:1631156215:1631156194:=16c16%0a%3c Dependencies and database and perl [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a---%0a> Dependencies [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a
+author:1631156194=
+diff:1631156194:1631156194:=1,17d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Server (see readme you need open ssl and cmake and dependencies) [[https://github.com/erfg12/Trilogy|#]]%0a%3c %0a%3c Dependencies [[https://drive.google.com/drive/folders/1uUuxT-5OoLhAO5syaxAg20ONY76wDGiI?usp=sharing|#]].%0a%3c %0a

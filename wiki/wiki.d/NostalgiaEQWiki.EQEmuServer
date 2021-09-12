@@ -1,0 +1,14 @@
+version=pmwiki-2.2.133 ordered=1 urlencoded=1
+author=
+charset=UTF-8
+csum=This is the server to use for Titanium or RoF2 clients.  This is our uncompiled server [[https://github.com/vire70/Server|#]].  This is our compiled server [[https://github.com/GiverofMemory/NostalgiaEQ-server|#]].  Dependencies [[https://eqemu.github.io/|#]]. 
+ctime=1631322517
+name=NostalgiaEQWiki.EQEmuServer
+rev=2
+targets=
+text=(:nogroupheader:)%0a(:Summary::)%0a(:Published::)%0a(:Author:[[~GiverofMemory]]:)%0a(:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a(:Update::)%0a(:Maintainer:[[~GiverofMemory]]:)%0a(:Creator:[[]]:)%0a(:Categories:[[!]]:)%0a(:Also:none:)%0a(:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a(:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%0aThis is the server to use for Titanium or RoF2 clients.%0a%0aThis is our uncompiled server [[https://github.com/vire70/Server|#]].%0a%0aThis is our compiled server [[https://github.com/GiverofMemory/NostalgiaEQ-server|#]].%0a%0aDependencies [[https://eqemu.github.io/|#]].
+time=1631330418
+author:1631330418=
+diff:1631330418:1631322517:=14,20c14%0a%3c This is the server to use for Titanium or RoF2 clients.%0a%3c %0a%3c This is our uncompiled server [[https://github.com/vire70/Server|#]].%0a%3c %0a%3c This is our compiled server [[https://github.com/GiverofMemory/NostalgiaEQ-server|#]].%0a%3c %0a%3c Dependencies [[https://eqemu.github.io/|#]].%0a\ No newline at end of file%0a---%0a> Dependencies [[https://eqemu.github.io/|#]]%0a\ No newline at end of file%0a
+author:1631322517=
+diff:1631322517:1631322517:=1,14d0%0a%3c (:nogroupheader:)%0a%3c (:Summary::)%0a%3c (:Published::)%0a%3c (:Author:[[~GiverofMemory]]:)%0a%3c (:License:[[https://en.m.wikipedia.org/wiki/Res_communis|Site License]]:)%0a%3c (:Update::)%0a%3c (:Maintainer:[[~GiverofMemory]]:)%0a%3c (:Creator:[[]]:)%0a%3c (:Categories:[[!]]:)%0a%3c (:Also:none:)%0a%3c (:Archive:[[|Archive.is]], [[|Archive.org]]:)%0a%3c (:Download:[[{$FullName}?action=print|URL]],[[https://www.web2pdfconvert.com/|PDF from URL]]:)%0a%3c %0a%3c Dependencies [[https://eqemu.github.io/|#]]%0a\ No newline at end of file%0a

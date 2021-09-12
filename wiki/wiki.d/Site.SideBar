@@ -2,14 +2,18 @@ version=pmwiki-2.2.133 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.156 Mobile Safari/537.36
 author=
 charset=UTF-8
-csum=* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]] 
+csum=* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]] 
 host=68.231.69.235
 name=Site.SideBar
 passwdedit=@_site_upload
-rev=82
+rev=84
 targets=Main.HomePage,Main.EditingPhilosophy,NostalgiaEQWiki.NostalgiaEQWiki,Category.ToDo,Category.Issue,Category.Development,Site.SiteBackup,Site.SideBar,Main.WikiSandbox
-text=* [[Main/HomePage|Home Page]]%0a%0a* [[https://discord.gg/e5hAyWfbsW|Discord]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki|NEQ Wiki]]%0a%0a* [[Category.ToDo | To Do]]%0a%0a* [[Category.Issue | Issue]]%0a%0a* [[Category.Development | Development]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.wiki.nostalgiaeq.com/wiki/pmwiki.php/NostalgiaEQWiki/Test?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1630853587
+text=* [[Main/HomePage|Home Page]]%0a%0a* [[https://discord.gg/e5hAyWfbsW|Discord]]%0a%0a* [[Main/EditingPhilosophy|Editing Philosophy]]%0a%0a!! [[NostalgiaEQ Wiki/NostalgiaEQ Wiki|NEQ Wiki]]%0a%0a* [[Category.ToDo | To Do]]%0a%0a* [[Category.Issue | Issue]]%0a%0a* [[Category.Development | Development]]%0a%0a'''Software By:'''%0a* [[https://pmwiki.org/wiki/PmWiki/PmWiki | {+PmWiki+}]]%0a%0a'''Hosting By:'''%0a* [[https://www.pmwiki.org/wiki/Cookbook/WikiOnAStick | {+Abyss Server+}]]%0a%0a'''[[Site Backup]]:'''%0a* [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a* [[{*$FullName}?action=dump | {+Site Dump+}]] - [[http://www.wiki.nostalgiaeq.com/wiki/pmwiki.php/NostalgiaEQWiki/Test?action=edit|login]]%0a%0a'''License:'''%0a* [[https://en.m.wikipedia.org/wiki/Res_communis | {+Res Communis+}]]%0a%0a* [[Main/[-WikiSandbox-] ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1631299969
+author:1631299969=
+diff:1631299969:1631299953:=22c22%0a%3c * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Git Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a---%0a> * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a
+author:1631299953=
+diff:1631299953:1630853587:=22c22%0a%3c * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|local]]%0a---%0a> * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]]%0a
 author:1630853587=
 diff:1630853587:1630853557:=22c22%0a%3c * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]] - [[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]]%0a---%0a> * [[https://github.com/GiverofMemory/NostalgiaEQ-Wiki | {+Github Archive+}]]-[[https://www.pmwiki.org/wiki/Cookbook/Standalone|offline]]%0a
 host:1630853587=68.231.69.235
