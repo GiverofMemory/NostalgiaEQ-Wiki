@@ -1,3 +1,5 @@
+May move to [Bitbucket](https://bitbucket.org/naturevault/) or [Gitlab](https://gitlab.com/giverofmemory/) due to mandatory 2FA here.
+
 # [NostalgiaEQ](http://nostalgiaeq.com) - [Wiki](http://wiki.nostalgiaeq.com) - Saving Classic EverQuest
 ### Uses [PmWiki](https://www.pmwiki.org/) software
 
